@@ -1,0 +1,19 @@
+body{
+max-width: 5;
+padding-left: 5;
+min-inline-size: 7;
+background-color: rgb(220, 201, 103);
+}
+.login-container{
+    line-height: 2;
+    background-color: blueviolet;
+    padding-left: 2;
+    padding: 2; 
+    padding-right: 2;
+
+}
+header h3{
+    background-position:center ;
+    text-align: center;
+    text-decoration-color: rgba(155, 217, 150, 0.753);
+}
